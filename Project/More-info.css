@@ -1,0 +1,28 @@
+body{
+
+    background-image: url(moreinfo.png);
+    color: white;
+}
+
+div{
+
+    position: absolute;
+    top:40%;
+    right:25%;
+    padding:40px,70px;
+    font-size: 40px;
+    font-weight: 800;
+    background-color:rgba(236, 17, 17, 0.5);
+    text-decoration: none;
+    border: 2px solid gray;
+}
+
+a{
+    text-decoration: none;
+color:black;
+}
+
+.a1 :hover{
+
+    color:blue;
+}

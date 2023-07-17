@@ -1,0 +1,18 @@
+body{
+    background-image: url(pic3.jpg);
+    background-position: center;
+    color: white;
+}
+.main{
+
+    background-color:rgba(236, 17, 17, 0.5);
+    position: absolute;
+    top: 45%;
+    right: 32%;
+    font-weight: 800;
+    font-size: 30px;
+    border:2px solid grey;
+    border-radius: 3px;
+    padding:30px 30px 30px 30px;
+    box-shadow: 2px 2px 15px rgba(255,255,255,0.3);
+}

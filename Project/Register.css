@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@500&display=swap');
+body{
+    background-image: url(chester.jpg);
+    background-position: center;
+    color: white;
+}
+
+.main-div{
+
+    width:400px;
+    margin:100px auto 0px auto;
+    position: relative;
+    right:30px;
+}
+h2{
+    text-align:center;
+    padding: 20px;
+    color: tomato;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 50px;
+}
+.Registration{
+    padding-left:50px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:rgba(236, 17, 17, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius:10px;
+    border:1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(255,255,255,0.3);
+}
+label{
+
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 18px;
+}
+#name {
+    width:300px;
+    border:1px solid;
+    border-radius: 3px;
+    padding: 7px;
+    outline: 0;
+}
+.button{
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 3px;
+    border: none;
+    background-color: white;
+    color: black;
+    text-decoration:none;
+}
+
+#register:hover{
+
+    background-color: grey;
+}
+
